@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca6dafa-2a85-4cb2-bb06-96aaff1fa3b9" name="Changes" comment="new env works">
+    <list default="true" id="6ca6dafa-2a85-4cb2-bb06-96aaff1fa3b9" name="Changes" comment="env3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648925337787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="env3">
+      <created>1648926314948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648926314948</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +136,7 @@
     <MESSAGE value="Add gunicorn, add env" />
     <MESSAGE value="new env" />
     <MESSAGE value="new env works" />
-    <option name="LAST_COMMIT_MESSAGE" value="new env works" />
+    <MESSAGE value="env3" />
+    <option name="LAST_COMMIT_MESSAGE" value="env3" />
   </component>
 </project>

@@ -9,14 +9,13 @@ from sqlalchemy.orm import relationship
 from flask_login import UserMixin, login_user, LoginManager, login_required, current_user, logout_user
 from forms import LoginForm, RegisterForm, CreatePostForm, CommentForm
 from flask_gravatar import Gravatar
+from dotenv import load_dotenv
 import os
-from dotenv import load_dotenv, find_dotenv
 
-load_dotenv(find_dotenv())
-any_secret_var = os.getenv("SECRET_KEY")
-
+load_dotenv(".env")
+api_key = os.getenv("SECRET_KEY")
 app = Flask(__name__)
-app.config['SECRET_KEY'] = any_secret_var
+app.config['SECRET_KEY'] = api_key
 ckeditor = CKEditor(app)
 Bootstrap(app)
 gravatar = Gravatar(app, size=100, rating='g', default='retro', force_default=False, force_lower=False, use_ssl=False, base_url=None)
