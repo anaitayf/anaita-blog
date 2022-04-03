@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca6dafa-2a85-4cb2-bb06-96aaff1fa3b9" name="Changes" comment="env3">
+    <list default="true" id="6ca6dafa-2a85-4cb2-bb06-96aaff1fa3b9" name="Changes" comment="env5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648926314948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="env5">
+      <created>1648927852682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648927852682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +143,7 @@
     <MESSAGE value="new env" />
     <MESSAGE value="new env works" />
     <MESSAGE value="env3" />
-    <option name="LAST_COMMIT_MESSAGE" value="env3" />
+    <MESSAGE value="env5" />
+    <option name="LAST_COMMIT_MESSAGE" value="env5" />
   </component>
 </project>
